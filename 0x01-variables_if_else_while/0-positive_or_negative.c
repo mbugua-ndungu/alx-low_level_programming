@@ -4,6 +4,11 @@
 /* Function to determine +, -  */
 
 /*i e Function to determine +, -  */
+/**
+ * main - assign a random number to the variable n each time it is executed
+ * it checks whether the number is positive or negative
+ * Return: 0 exit code for the program
+ */
 int main(void)
 {
 	/*i e Function to determine +, -  */
