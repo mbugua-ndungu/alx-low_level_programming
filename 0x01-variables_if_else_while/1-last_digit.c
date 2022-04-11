@@ -5,9 +5,9 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - assign a random number to the variable n each time it is executed
- * it checks whether the number is zero, greater than 5 and less than 6 and not equal to 0
- * Return: 0 exit code for the program
+ * main - Determines either greater than 5, is less than 6, or is 0
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
