@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
+/* Function to determine +, -  */
 
-/* betty style doc for function main goes there */
+/*i e Function to determine +, -  */
 int main(void)
 {
 	int n;
